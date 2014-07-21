@@ -1,0 +1,2 @@
+- 다음 실시간 음악 차트를 파싱/클롤링해서 정보를 가져오자.
+- 링크 : http://music.daum.net/chart/chartsong/list
